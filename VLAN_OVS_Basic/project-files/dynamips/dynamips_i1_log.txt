@@ -1,0 +1,10 @@
+Jan 13 16:58:29.583 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Jan 13 16:58:29.583 HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 57924.
+Jan 13 16:58:30.014 HYPERVISOR: exec_cmd: hypervisor version 
+Jan 13 16:58:30.014 HYPERVISOR: exec_cmd: hypervisor working_dir S:\GNS3 Projects\VLAN_OVS_Basic\project-files\dynamips 
+Jan 13 16:58:30.014 GENERAL: working_dir=S:\GNS3 Projects\VLAN_OVS_Basic\project-files\dynamips
+Jan 13 16:58:30.014 HYPERVISOR: exec_cmd: ethsw create Switch1 
+Jan 13 16:58:48.868 HYPERVISOR: exec_cmd: ethsw delete Switch1 
+Jan 13 16:58:48.871 HYPERVISOR: exec_cmd: hypervisor stop 
+Jan 13 16:58:49.224 HYPERVISOR: Stopped.
+Jan 13 16:58:49.224 GENERAL: reset done.
